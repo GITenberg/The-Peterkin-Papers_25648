@@ -1,0 +1,32 @@
+_repo: The-Peterkin-Papers_25648
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hale, Lucretia P. (Lucretia Peabody)
+    alias: Hale, Lucretia Peabody
+    birthdate: 1820
+    deathdate: 1900
+    gutenberg_agent_id: '1092'
+    url: http://www.gutenberg.org/2009/agents/1092
+    wikipedia: http://en.wikipedia.org/wiki/Lucretia_Peabody_Hale
+description: The hilarious adventures of the impractical Peterkin family whose numerous
+  dilemmas are solved by the Lady from Philadelphia. Grades 4-8. For other editions,
+  see Author Catalog.
+gutenberg_issued: '2008-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25648'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Family life -- Juvenile fiction'
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- !lcc 'PZ'
+title: The Peterkin Papers
+url: http://www.gutenberg.org/ebooks/25648
