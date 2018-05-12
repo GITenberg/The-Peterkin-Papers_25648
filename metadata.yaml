@@ -15,6 +15,8 @@ creator:
 description: The hilarious adventures of the impractical Peterkin family whose numerous
   dilemmas are solved by the Lady from Philadelphia. Grades 4-8. For other editions,
   see Author Catalog.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25648#The-Peterkin-Papers
 gutenberg_issued: '2008-05-30'
 gutenberg_type: Text
 identifiers:
